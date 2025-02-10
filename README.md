@@ -19,7 +19,7 @@ To run the code in this project, you will need to have Python and Jupyter Notebo
 
 1. Clone this repository:
     ```bash
-    git clone https://github.com/yourusername/practice_python_decorators.git
+    git clone https://github.com/MarkVologdin/Praktice_python.git
     ```
 2. Navigate to the project directory:
     ```bash
